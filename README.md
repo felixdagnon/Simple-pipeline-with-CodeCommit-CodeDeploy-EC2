@@ -58,6 +58,16 @@ Create Codedeploy application
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/00aea403-2300-44bc-adfe-92cbc2ee1e6d)
 
+![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/6c42da52-b4fd-4469-87ab-36a542e67d68)
+
+![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/c48737ab-13e3-42b1-a0c0-ba806d923f1f)
+
+## Copy the publi ip DNS and paste in
+
+![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/75c2378b-5484-4d14-ac79-33af7baff1e3)
+
+
+
 
 
 
