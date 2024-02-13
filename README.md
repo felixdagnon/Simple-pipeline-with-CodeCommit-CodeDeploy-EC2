@@ -8,7 +8,9 @@
 
 ### Modify the html file and trigger aws pipeline for new website
 
-![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/93f7f858-0396-4b23-8955-2b5dc34570a1)
+![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/e215e25f-39d3-47ee-bc6e-a417bf05f9ce)
+
+
 
 
 
