@@ -62,9 +62,58 @@ Create Codedeploy application
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/c48737ab-13e3-42b1-a0c0-ba806d923f1f)
 
-## Copy the publi ip DNS and paste in
+## Copy the public ip DNS and paste in
+
+![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/a9f8498d-7817-4045-958d-ace5fba4db5f)
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/75c2378b-5484-4d14-ac79-33af7baff1e3)
+
+# If we make change in Cloud9 every thing will change in the web page
+
+For example make the change of index.html code and commit the change
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Updated Sample Deployment</title>
+  <style>
+    body {
+      color: #000000;
+      background-color: #CCFFCC;
+      font-family: Arial, sans-serif;  
+      font-size:14px;
+    }
+        
+    h1 {
+      font-size: 250%;
+      font-weight: normal;
+      margin-bottom: 0;
+    }
+    
+    h2 {
+      font-size: 175%;
+      font-weight: normal;
+      margin-bottom: 0;
+    }
+  </style>
+</head>
+<body>
+  <div align="center"><h1>Updated Sample Deployment</h1></div>
+  <div align="center"><h2>This application was updated using CodePipeline, CodeCommit, and CodeDeploy.</h2></div>
+  <div align="center">
+    <p>Learn more:</p> 
+    <p><a href="https://docs.aws.amazon.com/codepipeline/latest/userguide/">CodePipeline User Guide</a></p>
+    <p><a href="https://docs.aws.amazon.com/codecommit/latest/userguide/">CodeCommit User Guide</a></p>
+    <p><a href="https://docs.aws.amazon.com/codedeploy/latest/userguide/">CodeDeploy User Guide</a></p>
+  </div>
+</body>
+</html>
+
+
+![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/e253889c-38ad-42f2-ad32-6f0f04da9db7)
+
+
 
 
 
