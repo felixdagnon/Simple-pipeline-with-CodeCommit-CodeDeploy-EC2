@@ -73,6 +73,7 @@ Create Codedeploy application
 For example make the change of index.html code and commit the change
 
 
+```json
 <!DOCTYPE html>
 <html>
 <head>
@@ -109,6 +110,7 @@ For example make the change of index.html code and commit the change
   </div>
 </body>
 </html>
+```
 
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/e253889c-38ad-42f2-ad32-6f0f04da9db7)
