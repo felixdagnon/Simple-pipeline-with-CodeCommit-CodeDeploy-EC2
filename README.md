@@ -47,6 +47,21 @@ Create Ec2 where we are going the sample of application and Install CodeDeploy a
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/95f10d87-bf74-4c43-94a2-991252b12ab6)
 
+Create Codedeploy application
+
+![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/a7d3b527-e00b-40da-ada9-f562b54a3663)
+
+![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/5fa9e908-c66f-4717-a24f-bba2e650e3c3)
+
+
+## Create Pipelene
+
+![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/00aea403-2300-44bc-adfe-92cbc2ee1e6d)
+
+
+
+
+
 
 
 
