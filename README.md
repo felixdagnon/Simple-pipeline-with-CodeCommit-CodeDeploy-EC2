@@ -73,7 +73,7 @@ Create Codedeploy application
 For example make the change of index.html code and commit the change
 
 
-```json
+```py
 <!DOCTYPE html>
 <html>
 <head>
