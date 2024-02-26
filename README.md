@@ -2,6 +2,8 @@
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/32c5f0ea-0781-40b7-a01c-d47b2469bdd0)
 
+# Overview
+
 ### We will deploy this website using codeploy
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/59783049-bcaf-464c-9fcd-d8247e4ce2bc)
