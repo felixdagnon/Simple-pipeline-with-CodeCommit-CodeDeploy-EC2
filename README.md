@@ -38,7 +38,7 @@ Envoyer ces modifications sur le dépôt distant avec : $ git push
 Create Ec2 where we are going the sample of application and Install CodeDeploy agent on EC2 to be part of CodeDeploy group
 
 
-# 4-Create role for Ec2, codedeploy and CodeDeployement group
+Let's create before role for Ec2, codedeploy and CodeDeployement group
 
 ## Create role for Ec2 and create EC2
 
@@ -50,14 +50,14 @@ Create Ec2 where we are going the sample of application and Install CodeDeploy a
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/95f10d87-bf74-4c43-94a2-991252b12ab6)
 
-Create Codedeploy application
+## Create Codedeploy application
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/a7d3b527-e00b-40da-ada9-f562b54a3663)
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/5fa9e908-c66f-4717-a24f-bba2e650e3c3)
 
 
-# 5-Create Pipelene
+# 4-Create Pipelene
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/00aea403-2300-44bc-adfe-92cbc2ee1e6d)
 
@@ -71,7 +71,7 @@ Create Codedeploy application
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/75c2378b-5484-4d14-ac79-33af7baff1e3)
 
-# If we make change in Cloud9 every thing will change in the web page
+# 5-If we make change in Cloud9 every thing will change in the web page
 
 For example make the change of index.html code and commit the change
 
