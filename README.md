@@ -1,4 +1,4 @@
-# Demo-simple-pipeline
+# Simple-pipeline-with-CodeCommit-CodeDeploy-EC2
 
 ![image](https://github.com/felixdagnon/demo-simple-pipeline/assets/91665833/32c5f0ea-0781-40b7-a01c-d47b2469bdd0)
 
